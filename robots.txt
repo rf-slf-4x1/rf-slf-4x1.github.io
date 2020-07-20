@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+Allow: /https://rf-slf-411.github.io
+
+Sitemap: https://rf-slf-411.github.io/System/sitemap.txt
