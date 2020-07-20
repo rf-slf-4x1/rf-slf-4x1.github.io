@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /System
-
+Disallow: /System/
+Allow: /System/favicon.png/
 Sitemap: https://rf-slf-411.github.io/System/sitemap.txt
