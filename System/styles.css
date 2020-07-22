@@ -70,9 +70,9 @@ table.raspisanie td
 
 table.raspisanie td, table.raspisanie th
 {
-  white-space:pre-line;
-  padding:20px 2px;
-  line-height:2px;
+  white-space:pre-normal;
+  padding:10px 2px;
+  line-height:22px;
   border: 2px solid #ffffff;
 }
 
