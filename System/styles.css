@@ -1,0 +1,84 @@
+details summary
+  {
+    display: block;
+    outline-style: none;
+    cursor: pointer;
+  }
+
+  details summary::-webkit-details-marker
+  {display: none} /* Убранная стрелочка */
+
+hr
+   {
+      background-color: white;
+      height: 3px;
+   }
+
+a:link
+  {
+    text-decoration: none;
+    color: #FFFFFF
+  }
+
+a:visited
+  {
+    text-decoration: none;
+    color: #FFFFFF
+  }
+
+a:hover
+  {
+    text-decoration: none;
+    color: #FFFFFF
+  }
+
+a:active
+  {
+    text-decoration: none;
+    color: #FFFFFF
+  }
+
+h3
+  {
+    background: white;
+    color: black;
+    padding: 4px;
+    border-radius: 4px;
+    display: inline;
+  }
+
+table.raspisanie
+{
+  border-collapse:collapse;
+  width:100%;
+  text-align:center;
+}
+
+table.raspisanie th
+{
+  font-size:30px;  /* Размер шрифта заголовков */
+  font-weight: bold;
+  color:#ffffff;
+}
+
+table.raspisanie td
+{
+  font-size:20px;
+  color:#ffffff;
+  width:20%
+}
+
+table.raspisanie td, table.raspisanie th
+{
+  white-space:pre-line;
+  padding:20px 2px;
+  line-height:2px;
+  border: 2px solid #ffffff;
+}
+
+.mobile-table
+{
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+}
