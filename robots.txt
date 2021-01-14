@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /pages/
-Sitemap: https://rf-slf-4x1.github.io/System/sitemap.xml
+Sitemap: http://rf-slf-4x1.github.io/System/sitemap.xml
+host: http://rf-slf-4x1.github.io
