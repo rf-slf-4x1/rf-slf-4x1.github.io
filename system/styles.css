@@ -87,17 +87,3 @@ span
 {
   border-bottom: 1px dashed white;
 }
-
-button.knopka
-{
-  color: #000;
-  background: #fff;
-  padding: 5px;
-  border-radius: 5px;
-  border: 2px solid #fff;
-}
-
-button.knopka:hover
-{
-  background: #989898;
-}
