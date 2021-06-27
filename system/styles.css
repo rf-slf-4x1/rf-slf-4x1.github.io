@@ -10,8 +10,9 @@ details summary
 
 hr
    {
-      background-color: white;
-      height: 3px;
+    background-color: white;
+    width: 90%;
+    background: linear-gradient(#ffffff, #575757);
    }
 
 a:link
@@ -87,5 +88,3 @@ span
 {
   border-bottom: 1px dashed white;
 }
-
-line-height: 1.5;
