@@ -15,6 +15,25 @@ hr
     background: linear-gradient(#ffffff, #575757);
    }
 
+hr 
+  {
+    border: 0;
+    height: 1px;
+    background: #fff;
+    background-image: -webkit-linear-gradient(left, #575757, #fff, #575757);
+    background-image: -ms-linear-gradient(left, #575757, #fff, #575757);
+    background-image: -o-linear-gradient(left, #575757, #fff, #575757);
+  }
+
+hr-labs
+  {
+    margin: 20px 0;
+    padding: 0;
+    height: 0;
+    border: none;
+    border-top: 2px dashed #ddd;
+  }
+
 a:link
   {
     text-decoration: none;
@@ -87,4 +106,14 @@ table.raspisanie td, table.raspisanie th
 span
 {
   border-bottom: 1px dashed white;
+}
+
+p.labs
+{
+  border:2px solid #555;
+  border-radius:5px;
+  width: 200px;
+  text-align:center;
+  margin:20px;
+  padding:20px;
 }
