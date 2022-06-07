@@ -1,3 +1,4 @@
 #!/bin/bash
 git submodule update --remote --force
 git commit -a -m up_submodules
+git push
