@@ -1,4 +1,0 @@
-[submodule "cheatsheets"]
-	path = cheatsheets
-	url = https://github.com/rf-slf-4x1/cheatsheets.git
-	branch = main
