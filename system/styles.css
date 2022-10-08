@@ -1,0 +1,119 @@
+details summary
+  {
+    display: block;
+    outline-style: none;
+    cursor: pointer;
+  }
+
+  details summary::-webkit-details-marker
+  {display: none} /* Убранная стрелочка */
+
+hr
+   {
+    background-color: white;
+    width: 90%;
+    background: linear-gradient(#ffffff, #575757);
+   }
+
+hr 
+  {
+    border: 0;
+    height: 1px;
+    background: #fff;
+    background-image: -webkit-linear-gradient(left, #575757, #fff, #575757);
+    background-image: -ms-linear-gradient(left, #575757, #fff, #575757);
+    background-image: -o-linear-gradient(left, #575757, #fff, #575757);
+  }
+
+hr-labs
+  {
+    margin: 20px 0;
+    padding: 0;
+    height: 0;
+    border: none;
+    border-top: 2px dashed #ddd;
+  }
+
+a:link
+  {
+    text-decoration: none;
+    color: #FFFFFF
+  }
+
+a:visited
+  {
+    text-decoration: none;
+    color: #FFFFFF
+  }
+
+a:hover
+  {
+    text-decoration: none;
+    color: #FFFFFF
+  }
+
+a:active
+  {
+    text-decoration: none;
+    color: #FFFFFF
+  }
+
+h3
+  {
+    background: white;
+    color: black;
+    padding: 4px;
+    border-radius: 4px;
+    display: inline;
+  }
+
+table.raspisanie
+{
+  border-collapse:collapse;
+  width:100%;
+  text-align:center;
+}
+
+table.raspisanie th
+{
+  font-size:30px;  /* Размер шрифта заголовков */
+  font-weight: bold;
+  color:#ffffff;
+}
+
+table.raspisanie td
+{
+  font-size:20px;
+  color:#ffffff;
+  width:20%
+}
+
+table.raspisanie td, table.raspisanie th
+{
+  white-space:pre-normal;
+  padding:10px 2px;
+  line-height:22px;
+  border: 2px solid #ffffff;
+}
+
+.mobile-table
+{
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+span
+{
+  border-bottom: 1px dashed white;
+}
+
+p.labs
+{
+  border:2px solid #555;
+  border-radius:5px;
+  width: 200px;
+  text-align:center;
+  margin:20px;
+  padding:20px;
+}
