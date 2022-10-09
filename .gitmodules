@@ -1,0 +1,4 @@
+[submodule "site_materials"]
+	path = site_materials
+	url = git@github.com:rf-slf-4x1/site_materials.git
+	branch = main
